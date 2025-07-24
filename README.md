@@ -17,3 +17,4 @@ This project is free and open-source. However, if you use any part of it, you mu
 
 ### What is special point of this project
 Using Pure Programming Language without packages as possible, PHP,JavaScript.
+Using Git Flow!!!
