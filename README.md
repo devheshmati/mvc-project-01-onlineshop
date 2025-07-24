@@ -11,3 +11,9 @@ Payment feature with ZarinPal.
 
 ### Extra
 Fully Responsive, Rest API, SOLID, OOP
+
+### License
+This project is free and open-source. However, if you use any part of it, you must give proper credit by mentioning my name and providing a reference to this repository.
+
+### What is special point of this project
+Using Pure Programming Language without packages as possible, PHP,JavaScript.
